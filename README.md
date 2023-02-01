@@ -10,7 +10,14 @@ So, I am not good at python yet.
 
 But I love python... Maybe?.
 
-  
+### I can speak..
+
+- Korean
+- english
+- Python
+- MySQL
+- Git(learning step)
+
 <!--
 **dhtkddbs01/dhtkddbs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
