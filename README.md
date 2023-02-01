@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Let me introduve myself
+
+Hi, I am kingwangzzang1234.
+I am a AI data scientist usin python
+So, I am pyhonista.
+I love python so much.
+
 <!--
 **dhtkddbs01/dhtkddbs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
