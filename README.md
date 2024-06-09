@@ -1,61 +1,96 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요!</h1>
+<!--타이틀 부분-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=데이터%20분석가%20오상윤&reversal=false&textBg=false&animation=fadeIn&fontSize=50"/>
+</div>
 
+<div style="text-align: center;" >
+  <h3 align="center">🎁 Projects 🎁</h3>
+  <table align="center">
+    <tbody align="center">
+      <tr>
+        <td><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>매출 관점에서 카테고리별 매출 성장 방안 분석</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>나머지 프로젝트들</b></a></td>
+      </tr>    
+    </tbody>
+  </table>
+</div>
 
-<p>오상윤의 깃허브 </br> 안녕하세요 데이터 분석가 오상윤입니다.
-<h3>Skills and Tools</h3>
-<p>
+<!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
 
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF" />
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)" />
-  <img alt="selenium" src="https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white" />  
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" />
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</div>
 
+<br>
+<div align="center">
+    <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF" />&nbsp
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)" />
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)" />
+    
+</div>
 
+<div align="center">
+    <img alt="selenium" src="https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white" />  
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
+</div>
 
-</p>
-<h3>진행했던 프로젝트</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>매출 관점에서 카테고리별 매출 성장 방안 분석</b></a>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>나머지 프로젝트들</b></a>
-    </tr>    
-  </tbody>
-</table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
-</ul>
+<h3 align="center">📚 Keep Studying 📚</h3>
+<div align="center">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)" />
+    <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF" />&nbsp
+</div>
 
+<br>
 
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@dhtkddbs01">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:dhtkddbs2@gmail.com">
+    <img
+      src="https://img.shields.io/badge/dhtkddbs2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
