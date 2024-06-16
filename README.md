@@ -16,9 +16,6 @@
       <tr>
         <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>매출 관점에서 카테고리별 매출 성장 방안 분석</b></a></td>
       </tr>
-      <tr>
-        <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>나머지 프로젝트들</b></a></td>
-      </tr>    
     </tbody>
   </table>
 </div>
