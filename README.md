@@ -82,7 +82,6 @@
 
 <div align="center">
   <img alt="세미나 만족도 93점" src="https://img.shields.io/badge/세미나_만족도-93점-2E7D32?style=for-the-badge" />&nbsp
-  <img alt="POC 품질 사유 실패율 0%" src="https://img.shields.io/badge/POC_품질_사유_실패-0%25-2E7D32?style=for-the-badge" />&nbsp
   <img alt="개인 가용률 약 150%" src="https://img.shields.io/badge/개인_가용률-약_150%25-1565C0?style=for-the-badge" />&nbsp
   <img alt="팀 업무 부담 30% 경감" src="https://img.shields.io/badge/팀_업무부담-30%25_경감-1565C0?style=for-the-badge" />
 </div>
