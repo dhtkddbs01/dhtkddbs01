@@ -49,7 +49,7 @@
       </tr>
       <tr>
         <td align="center"><b>🎓 교육</b></td>
-        <td align="left">기업 대상 Tableau 교육 · 세미나 (누적 26회)<br>활용 사례 중심 커리큘럼 설계</td>
+        <td align="left">기업 대상 Tableau 교육 · 세미나 (누적 32회)<br>활용 사례 중심 커리큘럼 설계</td>
       </tr>
       <tr>
         <td align="center"><b>🧪 POC</b></td>
@@ -126,28 +126,32 @@
 
 <br>
 
-<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 26회</p>
+<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 32회</p>
 <div align="center">
   <table>
     <tbody>
+      <tr><td>공개 세미나</td><td align="center">4회</td><td align="center">2025.11, 2026.06</td></tr>
       <tr><td>한국일보</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
       <tr><td>현대 일렉트릭</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
-      <tr><td>공개 세미나</td><td align="center">4회</td><td align="center">2025.11, 2026.06</td></tr>
       <tr><td>제일기획</td><td align="center">2회</td><td align="center">2025.06</td></tr>
       <tr><td>초록우산</td><td align="center">2회</td><td align="center">2025.07</td></tr>
       <tr><td>삼성 DS</td><td align="center">2회</td><td align="center">2025.09 – 2025.10</td></tr>
       <tr><td>굿네이버스</td><td align="center">2회</td><td align="center">2025.09 – 2025.11</td></tr>
+      <tr><td>쌍용</td><td align="center">2회</td><td align="center">2026.05</td></tr>
+      <tr><td>농심</td><td align="center">2회</td><td align="center">2026.05</td></tr>
       <tr><td>잡코리아</td><td align="center">1회</td><td align="center">2025.05</td></tr>
       <tr><td>세방전지</td><td align="center">1회</td><td align="center">2025.05</td></tr>
       <tr><td>지평주조</td><td align="center">1회</td><td align="center">2025.06</td></tr>
       <tr><td>LG S&amp;I</td><td align="center">1회</td><td align="center">2025.06</td></tr>
+      <tr><td>레이어</td><td align="center">1회</td><td align="center">2025.12</td></tr>
       <tr><td>대웅제약</td><td align="center">1회</td><td align="center">2026.02</td></tr>
-      <tr><td>쌍용</td><td align="center">1회</td><td align="center">2026.04</td></tr>
-      <tr><td>농심</td><td align="center">1회</td><td align="center">2026.05</td></tr>
+      <tr><td>현대스틸파이프</td><td align="center">1회</td><td align="center">2026.02</td></tr>
+      <tr><td>효성첨단소재</td><td align="center">1회</td><td align="center">2026.03</td></tr>
+      <tr><td>퍼시스홀딩스</td><td align="center">1회</td><td align="center">2026.03</td></tr>
       <tr><td>어댑트</td><td align="center">1회</td><td align="center">2026.08</td></tr>
     </tbody>
   </table>
-  <sub>2026.06 공개 세미나는 <b>Tableau Next</b> 주제로 진행했습니다.</sub>
+  <sub>농심은 기초 · 중급 과정을 함께 진행했고, 2026.06 공개 세미나는 <b>Tableau Next</b> 주제로 진행했습니다.</sub>
 </div>
 
 <br>
