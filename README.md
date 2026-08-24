@@ -52,6 +52,14 @@
         <td align="left">고객 일정에 맞춘 빠른 프로토타이핑<br>피드백 반영 루프 운영</td>
       </tr>
       <tr>
+        <td align="center"><b>🛟 CS 대응</b></td>
+        <td align="left">Tableau CS 메일 · 기술 문의 응대<br>12시간 이내 응답 원칙</td>
+      </tr>
+      <tr>
+        <td align="center"><b>🖧 인프라</b></td>
+        <td align="left">서버 로그 분석 기반 오류 원인 파악<br>운영 환경 장애 대응</td>
+      </tr>
+      <tr>
         <td align="center"><b>🔧 데이터 엔지니어링</b></td>
         <td align="left">dbt · AWS Athena 기반 데이터 변환 파이프라인<br>멀티채널 원천 데이터 공통 스키마 정규화</td>
       </tr>
@@ -94,7 +102,8 @@
       <tr><td><b>삼성전자</b> GMPD</td><td align="center">2024.10 – 2025.01</td><td align="center"></td></tr>
     </tbody>
   </table>
-  <sub>운영 · <b>한국일보</b> (2025.05 –) &nbsp;|&nbsp; 담당자 부재 기간 대응 지원 · <b>혼다</b> (2025.06 – 2025.07), <b>구다이 글로벌</b></sub>
+  <sub><b>운영</b> &nbsp;·&nbsp; 소니코리아 (2026.02 – 🟢 진행 중) &nbsp;·&nbsp; 한국일보 (2025.05 – 2026.05)</sub><br>
+  <sub><b>담당자 부재 기간 대응 지원</b> <i>(운영 아님)</i> &nbsp;·&nbsp; 혼다 (2025.06 – 2025.07) &nbsp;·&nbsp; 구다이 글로벌</sub>
 </div>
 
 <br>
