@@ -57,7 +57,7 @@
       </tr>
       <tr>
         <td align="center"><b>🖧 인프라</b></td>
-        <td align="left">서버 로그 분석 기반 오류 원인 파악<br>운영 환경 장애 대응</td>
+        <td align="left">Tableau Server 로그 분석 기반 오류 원인 파악<br>운영 환경 장애 대응</td>
       </tr>
       <tr>
         <td align="center"><b>🔧 데이터 엔지니어링</b></td>
@@ -171,6 +171,7 @@
 <p align="center"><b>BI &amp; Analytics</b></p>
 <div align="center">
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />&nbsp
+  <img alt="Tableau Server" src="https://img.shields.io/badge/Tableau_Server-4E79A7?style=for-the-badge" />&nbsp
   <img alt="Tableau Next" src="https://img.shields.io/badge/Tableau_Next-1F457E?style=for-the-badge" />&nbsp
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img alt="numpy" src="https://img.shields.io/badge/numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white" />
