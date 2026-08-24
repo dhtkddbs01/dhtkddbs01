@@ -68,6 +68,19 @@
 <!--경력 부분-->
 <h3 align="center">💼 Track Record 💼</h3>
 
+<div align="center">
+  <img alt="세미나 만족도 93점" src="https://img.shields.io/badge/세미나_만족도-93점-2E7D32?style=for-the-badge" />&nbsp
+  <img alt="POC 품질 사유 실패율 0%" src="https://img.shields.io/badge/POC_품질_사유_실패-0%25-2E7D32?style=for-the-badge" />&nbsp
+  <img alt="개인 가용률 약 150%" src="https://img.shields.io/badge/개인_가용률-약_150%25-1565C0?style=for-the-badge" />&nbsp
+  <img alt="팀 업무 부담 30% 경감" src="https://img.shields.io/badge/팀_업무부담-30%25_경감-1565C0?style=for-the-badge" />
+</div>
+
+<p align="center">
+  <sub>병행 업무로 팀 반복·지원 업무를 흡수하며, 담당 프로젝트는 전건 일정 내 또는 조기 완료했습니다.<br>
+  문의는 12시간 이내 응답을 기본 원칙으로 운영합니다.</sub>
+</p>
+
+
 <p align="center"><b>구축 프로젝트</b></p>
 <div align="center">
   <table>
@@ -76,7 +89,7 @@
       <tr><td><b>한국일보</b></td><td align="center">2025.02 – 2025.05</td></tr>
       <tr><td><b>LG전자 해외법인</b></td><td align="center">2025.02 – 2025.03</td></tr>
       <tr><td><b>현대 일렉트릭</b> 울산공장</td><td align="center">2025.07</td></tr>
-      <tr><td><b>초록우산</b></td><td align="center">2025.10 –</td></tr>
+      <tr><td><b>초록우산</b> · EXIT</td><td align="center">2025.10 –</td></tr>
     </tbody>
   </table>
   <sub>운영 · <b>한국일보</b> (2025.05 –) &nbsp;|&nbsp; 담당자 부재 기간 대응 지원 · <b>혼다</b>, <b>구다이</b></sub>
