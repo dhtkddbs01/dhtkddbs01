@@ -64,7 +64,7 @@
         <td align="left">Tableau Server 로그 분석 기반 오류 원인 파악<br>운영 환경 장애 대응</td>
       </tr>
       <tr>
-        <td align="center"><b>🔧 데이터 마트</b></td>
+        <td align="center"><b>🔧 데이터 엔지니어링</b></td>
         <td align="left">dbt · AWS Athena 기반 데이터 마트 구축<br>멀티채널 원천 데이터 공통 스키마 정규화</td>
       </tr>
       <tr>
