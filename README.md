@@ -126,9 +126,12 @@
 
 <br>
 
-<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 32회</p>
-<div align="center">
-  <table>
+<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 32회 &nbsp;·&nbsp; 19곳</p>
+
+<details align="center">
+  <summary><b>고객사별 교육 이력 펼쳐보기</b></summary>
+  <br>
+  <table align="center">
     <tbody>
       <tr><td>공개 세미나</td><td align="center">4회</td><td align="center">2025.11, 2026.06</td></tr>
       <tr><td>한국일보</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
@@ -152,7 +155,7 @@
     </tbody>
   </table>
   <sub>농심은 기초 · 중급 과정을 함께 진행했고, 2026.06 공개 세미나는 <b>Tableau Next</b> 주제로 진행했습니다.</sub>
-</div>
+</details>
 
 <br>
 
