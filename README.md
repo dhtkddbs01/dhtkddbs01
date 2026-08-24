@@ -53,7 +53,7 @@
       </tr>
       <tr>
         <td align="center"><b>🛟 CS 대응</b></td>
-        <td align="left">Tableau CS 메일 · 기술 문의 응대<br>12시간 이내 응답 원칙</td>
+        <td align="left">Tableau CS 메일 · 기술 문의 응대<br>2시간 이내 응답 원칙</td>
       </tr>
       <tr>
         <td align="center"><b>🖧 인프라</b></td>
@@ -85,7 +85,7 @@
 
 <p align="center">
   <sub>병행 업무로 팀 반복·지원 업무를 흡수하며, 담당 프로젝트는 전건 일정 내 또는 조기 완료했습니다.<br>
-  문의는 12시간 이내 응답을 기본 원칙으로 운영합니다.</sub>
+  문의는 2시간 이내 응답을 기본 원칙으로 운영합니다.</sub>
 </p>
 
 
@@ -103,7 +103,7 @@
     </tbody>
   </table>
   <sub><b>운영</b> &nbsp;·&nbsp; 소니코리아 (2026.02 – 🟢 진행 중) &nbsp;·&nbsp; 한국일보 (2025.05 – 2026.05)</sub><br>
-  <sub><b>담당자 부재 기간 대응 지원</b> <i>(운영 아님)</i> &nbsp;·&nbsp; 혼다 (2025.06 – 2025.07) &nbsp;·&nbsp; 구다이 글로벌</sub>
+  <sub><b>담당자 부재 기간 대응 지원</b> <i>(운영 아님)</i> &nbsp;·&nbsp; 구다이 글로벌</sub>
 </div>
 
 <br>
