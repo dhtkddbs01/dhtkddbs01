@@ -85,8 +85,7 @@
 <div align="center">
   <table>
     <tbody>
-      <tr><td><b>커넥트웨이브</b></td><td align="center">2026.03 –</td><td align="center">🟢 진행 중</td></tr>
-      <tr><td><b>미트박스</b></td><td align="center">2026.03</td><td align="center"></td></tr>
+      <tr><td><b>어댑트</b> · 데이터 플랫폼</td><td align="center">2026.03 –</td><td align="center">🟢 진행 중</td></tr>
       <tr><td><b>소니코리아</b></td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
       <tr><td><b>초록우산</b> · EXIT</td><td align="center">2025.10 – 2026.01</td><td align="center"></td></tr>
       <tr><td><b>현대 일렉트릭</b> 울산공장</td><td align="center">2025.07</td><td align="center"></td></tr>
@@ -144,8 +143,8 @@
 
 <div align="center">
 
-**멀티채널 커머스 데이터 통합 파이프라인** · dbt + AWS Athena + Lambda<br>
-<sub>채널별 주문·배송·클레임·결제 원천을 공통 스키마로 정규화 (사내 프로젝트)</sub>
+**어댑트** — 멀티채널 커머스 데이터 통합 파이프라인 · dbt + AWS Athena + Lambda<br>
+<sub>채널별 주문·배송·클레임·결제 원천을 공통 스키마로 정규화</sub>
 
 **Agentforce 에이전트 형상관리** · Salesforce CLI + Tableau Next<br>
 <sub>분석·시각화 에이전트를 메타데이터 소스로 관리하고 배포 자동화</sub>
