@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td align="center"><b>🎓 교육</b></td>
-        <td align="left">기업 대상 Tableau 교육 · 세미나 (연 20회+)<br>활용 사례 중심 커리큘럼 설계</td>
+        <td align="left">기업 대상 Tableau 교육 · 세미나 (누적 25회)<br>활용 사례 중심 커리큘럼 설계</td>
       </tr>
       <tr>
         <td align="center"><b>🧪 POC</b></td>
@@ -85,47 +85,56 @@
 <div align="center">
   <table>
     <tbody>
-      <tr><td><b>삼성전자 GMPD</b></td><td align="center">2024.10 – 2025.01</td></tr>
-      <tr><td><b>한국일보</b></td><td align="center">2025.02 – 2025.05</td></tr>
-      <tr><td><b>LG전자 해외법인</b></td><td align="center">2025.02 – 2025.03</td></tr>
-      <tr><td><b>현대 일렉트릭</b> 울산공장</td><td align="center">2025.07</td></tr>
-      <tr><td><b>초록우산</b> · EXIT</td><td align="center">2025.10 –</td></tr>
+      <tr><td><b>커넥트웨이브</b></td><td align="center">2026.03 –</td><td align="center">🟢 진행 중</td></tr>
+      <tr><td><b>미트박스</b></td><td align="center">2026.03</td><td align="center"></td></tr>
+      <tr><td><b>소니코리아</b></td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
+      <tr><td><b>초록우산</b> · EXIT</td><td align="center">2025.10 – 2026.01</td><td align="center"></td></tr>
+      <tr><td><b>현대 일렉트릭</b> 울산공장</td><td align="center">2025.07</td><td align="center"></td></tr>
+      <tr><td><b>한국일보</b></td><td align="center">2025.02 – 2025.05</td><td align="center"></td></tr>
+      <tr><td><b>LG전자</b> 해외법인</td><td align="center">2025.02 – 2025.03</td><td align="center"></td></tr>
+      <tr><td><b>삼성전자</b> GMPD</td><td align="center">2024.10 – 2025.01</td><td align="center"></td></tr>
     </tbody>
   </table>
-  <sub>운영 · <b>한국일보</b> (2025.05 –) &nbsp;|&nbsp; 담당자 부재 기간 대응 지원 · <b>혼다</b>, <b>구다이</b></sub>
+  <sub>운영 · <b>한국일보</b> (2025.05 –) &nbsp;|&nbsp; 담당자 부재 기간 대응 지원 · <b>혼다</b> (2025.06 – 2025.07), <b>구다이 글로벌</b></sub>
 </div>
 
 <br>
 
-<p align="center"><b>POC</b> &nbsp;·&nbsp; 6건</p>
+<p align="center"><b>POC</b> &nbsp;·&nbsp; 8건</p>
 <div align="center">
-  <img alt="CJ F&C" src="https://img.shields.io/badge/CJ_F%26C-2024.12-555555?style=flat-square" />&nbsp
-  <img alt="삼성 웰스토리" src="https://img.shields.io/badge/삼성_웰스토리-2025.08-555555?style=flat-square" />&nbsp
-  <img alt="이삭 엔지니어링" src="https://img.shields.io/badge/이삭_엔지니어링-2025.08-555555?style=flat-square" />&nbsp
-  <img alt="S1" src="https://img.shields.io/badge/S1-2025.09-555555?style=flat-square" />&nbsp
+  <img alt="종근당" src="https://img.shields.io/badge/종근당-2026.01-555555?style=flat-square" />&nbsp
+  <img alt="대웅제약" src="https://img.shields.io/badge/대웅제약-2025.12-555555?style=flat-square" />&nbsp
+  <img alt="코스맥스" src="https://img.shields.io/badge/코스맥스-2025.11-555555?style=flat-square" />&nbsp
   <img alt="AXA" src="https://img.shields.io/badge/AXA-2025.09-555555?style=flat-square" />&nbsp
-  <img alt="코스맥스" src="https://img.shields.io/badge/코스맥스-2025.11-555555?style=flat-square" />
+  <img alt="S1" src="https://img.shields.io/badge/S1-2025.09-555555?style=flat-square" />&nbsp
+  <img alt="이삭 엔지니어링" src="https://img.shields.io/badge/이삭_엔지니어링-2025.08-555555?style=flat-square" />&nbsp
+  <img alt="삼성 웰스토리" src="https://img.shields.io/badge/삼성_웰스토리-2025.08-555555?style=flat-square" />&nbsp
+  <img alt="CJ F&C" src="https://img.shields.io/badge/CJ_F%26C-2024.12-555555?style=flat-square" />
 </div>
 
 <br>
 
-<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 20회</p>
+<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 25회</p>
 <div align="center">
   <table>
     <tbody>
       <tr><td>한국일보</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
       <tr><td>현대 일렉트릭</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
+      <tr><td>공개 세미나</td><td align="center">4회</td><td align="center">2025.11, 2026.06</td></tr>
       <tr><td>제일기획</td><td align="center">2회</td><td align="center">2025.06</td></tr>
       <tr><td>초록우산</td><td align="center">2회</td><td align="center">2025.07</td></tr>
       <tr><td>삼성 DS</td><td align="center">2회</td><td align="center">2025.09 – 2025.10</td></tr>
       <tr><td>굿네이버스</td><td align="center">2회</td><td align="center">2025.09 – 2025.11</td></tr>
-      <tr><td>공개 세미나</td><td align="center">2회</td><td align="center">2025.11</td></tr>
       <tr><td>잡코리아</td><td align="center">1회</td><td align="center">2025.05</td></tr>
       <tr><td>세방전지</td><td align="center">1회</td><td align="center">2025.05</td></tr>
       <tr><td>지평주조</td><td align="center">1회</td><td align="center">2025.06</td></tr>
       <tr><td>LG S&amp;I</td><td align="center">1회</td><td align="center">2025.06</td></tr>
+      <tr><td>대웅제약</td><td align="center">1회</td><td align="center">2026.02</td></tr>
+      <tr><td>쌍용</td><td align="center">1회</td><td align="center">2026.04</td></tr>
+      <tr><td>농심</td><td align="center">1회</td><td align="center">2026.05</td></tr>
     </tbody>
   </table>
+  <sub>2026.06 공개 세미나는 <b>Tableau Next</b> 주제로 진행했습니다.</sub>
 </div>
 
 <br>
