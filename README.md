@@ -49,7 +49,7 @@
       </tr>
       <tr>
         <td align="center"><b>🎓 교육</b></td>
-        <td align="left">기업 대상 Tableau 교육 · 세미나 (누적 25회)<br>활용 사례 중심 커리큘럼 설계</td>
+        <td align="left">기업 대상 Tableau 교육 · 세미나 (누적 26회)<br>활용 사례 중심 커리큘럼 설계</td>
       </tr>
       <tr>
         <td align="center"><b>🧪 POC</b></td>
@@ -126,7 +126,7 @@
 
 <br>
 
-<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 25회</p>
+<p align="center"><b>Tableau 교육 · 세미나</b> &nbsp;·&nbsp; 26회</p>
 <div align="center">
   <table>
     <tbody>
@@ -144,6 +144,7 @@
       <tr><td>대웅제약</td><td align="center">1회</td><td align="center">2026.02</td></tr>
       <tr><td>쌍용</td><td align="center">1회</td><td align="center">2026.04</td></tr>
       <tr><td>농심</td><td align="center">1회</td><td align="center">2026.05</td></tr>
+      <tr><td>어댑트</td><td align="center">1회</td><td align="center">2026.08</td></tr>
     </tbody>
   </table>
   <sub>2026.06 공개 세미나는 <b>Tableau Next</b> 주제로 진행했습니다.</sub>
@@ -188,8 +189,7 @@
   <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" />&nbsp
   <img alt="Amazon Athena" src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge" />&nbsp
   <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge" />&nbsp
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge" />&nbsp
-  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge" />
 </div>
 
 <p align="center"><b>Salesforce &amp; AI</b></p>
