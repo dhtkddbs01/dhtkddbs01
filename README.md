@@ -95,14 +95,18 @@
 <p align="center"><b>구축 프로젝트</b></p>
 <div align="center">
   <table>
+    <thead>
+      <tr><th align="left">고객사</th><th align="left">범위</th><th align="center">기간</th><th align="center"></th></tr>
+    </thead>
     <tbody>
-      <tr><td><b>어댑트</b> · 데이터 플랫폼</td><td align="center">2026.03 –</td><td align="center">🟢 진행 중</td></tr>
-      <tr><td><b>소니코리아</b></td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
-      <tr><td><b>초록우산</b> · EXIT</td><td align="center">2025.10 – 2026.01</td><td align="center"></td></tr>
-      <tr><td><b>현대 일렉트릭</b> 울산공장</td><td align="center">2025.07</td><td align="center"></td></tr>
-      <tr><td><b>한국일보</b></td><td align="center">2025.02 – 2025.05</td><td align="center"></td></tr>
-      <tr><td><b>LG전자</b> 해외법인</td><td align="center">2025.02 – 2025.03</td><td align="center"></td></tr>
-      <tr><td><b>삼성전자</b> GMPD</td><td align="center">2024.10 – 2025.01</td><td align="center"></td></tr>
+      <tr><td><b>에스원</b></td><td>데이터 마트 · 대시보드 구축</td><td align="center">2026.09 –</td><td align="center">🟢 진행 중</td></tr>
+      <tr><td><b>어댑트</b></td><td>데이터 마트 · 대시보드 구축</td><td align="center">2026.03 –</td><td align="center">🟢 진행 중</td></tr>
+      <tr><td><b>소니코리아</b></td><td>마케팅 성과 대시보드 기획 · 구축</td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
+      <tr><td><b>초록우산</b></td><td>EXIT 대시보드 기획 · 구축</td><td align="center">2025.10 – 2026.01</td><td align="center"></td></tr>
+      <tr><td><b>현대 일렉트릭</b></td><td>울산공장 대시보드 구축</td><td align="center">2025.07</td><td align="center"></td></tr>
+      <tr><td><b>한국일보</b></td><td>회원 · 행동 데이터 대시보드 구축</td><td align="center">2025.02 – 2025.05</td><td align="center"></td></tr>
+      <tr><td><b>LG전자</b></td><td>해외법인 통합 대시보드 기획 · 구축</td><td align="center">2025.02 – 2025.03</td><td align="center"></td></tr>
+      <tr><td><b>삼성전자</b></td><td>GMPD 대시보드 구축</td><td align="center">2024.10 – 2025.01</td><td align="center"></td></tr>
     </tbody>
   </table>
   <sub><b>운영</b> &nbsp;·&nbsp; 소니코리아 (2026.02 – 🟢 진행 중) &nbsp;·&nbsp; 한국일보 (2025.05 – 2026.05)</sub><br>
@@ -179,6 +183,36 @@
 <!--프로젝트 부분-->
 <h3 align="center">🎁 Projects 🎁</h3>
 
+<p align="center">
+  <sub>최근에 커밋한 저장소 3개. 커밋이 쌓이면 진화합니다.<br>
+  <a href="https://github.com/wantaekchoi/pokerepo">PokeRepo</a> · 매일 06:00 갱신</sub>
+</p>
+
+<div align="center">
+
+<!-- POKEREPO:START -->
+<table>
+<tr>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
+<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.12</sub></td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
+<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290">Nincada</a> · Lv.9</sub></td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
+<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10">Caterpie</a> · Lv.6</sub></td>
+</tr>
+</table>
+
+<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01">진행한 모든 프로젝트 목록</a></sub>
+<!-- POKEREPO:END -->
+
+</div>
+
+<br>
+
 <div align="center">
   <table>
     <tbody>
@@ -222,39 +256,6 @@
     </tbody>
   </table>
 </details>
-
-<br>
-
-<!--포켓몬 부분-->
-<h3 align="center">🎮 Now Training 🎮</h3>
-
-<p align="center">
-  <sub>최근에 커밋한 저장소 3개. 커밋이 쌓이면 진화합니다.<br>
-  <a href="https://github.com/wantaekchoi/pokerepo">PokeRepo</a> · 매일 06:00 갱신</sub>
-</p>
-
-<div align="center">
-
-<!-- POKEREPO:START -->
-<table>
-<tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.12</sub></td>
-</tr>
-<tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290">Nincada</a> · Lv.9</sub></td>
-</tr>
-<tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10">Caterpie</a> · Lv.6</sub></td>
-</tr>
-</table>
-
-<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01">진행한 모든 프로젝트 목록</a></sub>
-<!-- POKEREPO:END -->
-
-</div>
 
 <br>
 
