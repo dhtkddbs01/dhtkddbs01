@@ -4,170 +4,261 @@
     "dhtkddbs01/Customer_purchasing_activity_analysis": {
       "exp": 4250,
       "caught": true,
+      "species": 410,
       "stars": 0,
       "commits": 17,
       "lastCommit": "2024-05-12T11:01:25Z",
       "description": "k-mean클러스터링과 cohort",
       "merges": 0,
       "alive": true,
-      "level": 15
+      "level": 13,
+      "mon": 410
     },
     "dhtkddbs01/dhtkddbs01": {
-      "exp": 5900,
+      "exp": 6150,
       "caught": true,
+      "species": 532,
       "stars": 0,
-      "commits": 14,
-      "lastCommit": "2026-08-31T08:24:50Z",
+      "commits": 15,
+      "lastCommit": "2026-08-31T08:27:32Z",
       "description": "프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다",
       "merges": 8,
       "alive": true,
-      "level": 15
+      "level": 20,
+      "mon": 532
     },
     "dhtkddbs01/Early-Retirement-Analysis": {
       "exp": 5500,
       "caught": true,
+      "species": 622,
       "stars": 0,
       "commits": 22,
       "lastCommit": "2024-05-24T11:15:50Z",
       "description": null,
       "merges": 0,
       "alive": true,
-      "level": 17
+      "level": 17,
+      "mon": 622
     },
     "eunyeongkimm/eunyeongkimm": {
       "exp": 0,
       "caught": false,
+      "species": 749,
       "stars": 0,
       "commits": 0,
       "lastCommit": null,
       "description": null,
       "merges": 0,
       "alive": true,
-      "level": 1
+      "level": 1,
+      "mon": 749
     },
     "dhtkddbs01/game_user_analysis": {
       "exp": 1750,
       "caught": true,
+      "species": 753,
       "stars": 0,
       "commits": 7,
       "lastCommit": "2024-07-02T05:02:17Z",
       "description": "배틀로얄 게임 로그 620만 건 — 비정상(버그) 유저 탐지 가설 검증",
       "merges": 0,
       "alive": true,
-      "level": 9
+      "level": 12,
+      "mon": 753
     },
     "bokub/github-stats-box": {
       "exp": 0,
       "caught": false,
+      "species": 347,
       "stars": 159,
       "commits": 0,
       "lastCommit": null,
       "description": "📌 Update a gist to contain your GitHub stats",
       "merges": 0,
       "alive": true,
-      "level": 1
+      "level": 1,
+      "mon": 347
     },
     "dhtkddbs01/Outstanding_worker_analysis": {
       "exp": 1750,
       "caught": true,
+      "species": 443,
       "stars": 0,
       "commits": 7,
       "lastCommit": "2024-05-16T10:34:58Z",
       "description": null,
       "merges": 0,
       "alive": true,
-      "level": 14
+      "level": 11,
+      "mon": 443
     },
     "wantaekchoi/pokerepo": {
       "exp": 0,
       "caught": false,
+      "species": 175,
       "stars": 4,
       "commits": 0,
       "lastCommit": null,
       "description": "One Pokémon per repository. Commits level it up, merged pull requests add it to your Dex.",
       "merges": 0,
       "alive": true,
-      "level": 1
+      "level": 1,
+      "mon": 175
     },
     "maxam2017/productive-box": {
       "exp": 0,
       "caught": false,
+      "species": 246,
       "stars": 543,
       "commits": 0,
       "lastCommit": null,
       "description": "Are you an early 🐤 or a night 🦉? Let's check out in gist",
       "merges": 0,
       "alive": true,
-      "level": 1
+      "level": 1,
+      "mon": 246
     },
     "dhtkddbs01/Sales_growth_by_category_analysis": {
       "exp": 7250,
       "caught": true,
+      "species": 850,
       "stars": 0,
       "commits": 29,
       "lastCommit": "2024-05-20T16:34:00Z",
       "description": "A/B 테스트 와 t-test",
       "merges": 0,
       "alive": true,
-      "level": 21
+      "level": 19,
+      "mon": 850
     },
     "dhtkddbs01/slack-CLI-hands-on": {
       "exp": 250,
       "caught": true,
+      "species": 821,
       "stars": 0,
       "commits": 1,
       "lastCommit": "2026-06-09T06:42:46Z",
       "description": "Slack CLI로 구성한 Bolt(JS) 앱 실습 — OpenAI Agents SDK 기반 IT 지원 에이전트",
       "merges": 0,
       "alive": true,
-      "level": 6
+      "level": 7,
+      "mon": 821
     },
     "AI5-Final-SCV/streamlit_yolov8": {
       "exp": 0,
       "caught": false,
+      "species": 187,
       "stars": 2,
       "commits": 0,
       "lastCommit": null,
       "description": "Streamlit YOLOV8 모델 배포",
       "merges": 0,
       "alive": true,
-      "level": 1
+      "level": 1,
+      "mon": 187
     },
     "dhtkddbs01/study": {
       "exp": 15000,
       "caught": true,
+      "species": 688,
       "stars": 0,
       "commits": 60,
       "lastCommit": "2024-06-09T07:54:38Z",
       "description": "Python/SQL/Analyst",
       "merges": 0,
       "alive": true,
-      "level": 26
+      "level": 24,
+      "mon": 688
     },
     "thmsgbrt/thmsgbrt": {
       "exp": 0,
       "caught": false,
+      "species": 109,
       "stars": 538,
       "commits": 0,
       "lastCommit": null,
       "description": "My awesome README.md",
       "merges": 0,
       "alive": true,
-      "level": 1
+      "level": 1,
+      "mon": 109
     },
     "dhtkddbs01/Topic_LDAmodeling_RFM_analysis": {
       "exp": 7500,
       "caught": true,
+      "species": 228,
       "stars": 0,
       "commits": 30,
       "lastCommit": "2024-06-23T11:31:38Z",
       "description": "LDA 모델링을 통한 RFM 분석",
       "merges": 0,
       "alive": true,
-      "level": 19
+      "level": 18,
+      "mon": 228
     }
   },
-  "dex": {},
+  "dex": {
+    "109": {
+      "seen": true,
+      "caught": false
+    },
+    "175": {
+      "seen": true,
+      "caught": false
+    },
+    "187": {
+      "seen": true,
+      "caught": false
+    },
+    "228": {
+      "seen": true,
+      "caught": true
+    },
+    "246": {
+      "seen": true,
+      "caught": false
+    },
+    "347": {
+      "seen": true,
+      "caught": false
+    },
+    "410": {
+      "seen": true,
+      "caught": true
+    },
+    "443": {
+      "seen": true,
+      "caught": true
+    },
+    "532": {
+      "seen": true,
+      "caught": true
+    },
+    "622": {
+      "seen": true,
+      "caught": true
+    },
+    "688": {
+      "seen": true,
+      "caught": true
+    },
+    "749": {
+      "seen": true,
+      "caught": false
+    },
+    "753": {
+      "seen": true,
+      "caught": true
+    },
+    "821": {
+      "seen": true,
+      "caught": true
+    },
+    "850": {
+      "seen": true,
+      "caught": true
+    }
+  },
   "trainer": {
     "grassExp": 700
   },
