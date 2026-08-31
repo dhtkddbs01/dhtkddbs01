@@ -194,7 +194,7 @@
 <table>
 <tr>
 <td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.12</sub></td>
+<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.13</sub></td>
 </tr>
 <tr>
 <td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
