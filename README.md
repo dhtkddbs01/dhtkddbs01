@@ -223,27 +223,27 @@
   <table align="center">
     <tbody>
       <tr>
-        <td align="center" valign="bottom" width="48" height="48"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/228.gif" width="29" height="48" alt="houndour"></a></td>
+        <td align="center" valign="bottom" width="46" height="46"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/228.gif" width="28" height="46" alt="houndour"></a></td>
         <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a><br><sub>Houndour · Lv.18</sub></td>
         <td align="left" valign="middle">LDA 토픽 모델링 + RFM</td>
       </tr>
       <tr>
-        <td align="center" valign="bottom" width="48" height="48"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/410.gif" width="40" height="48" alt="shieldon"></a></td>
+        <td align="center" valign="bottom" width="46" height="46"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/410.gif" width="38" height="46" alt="shieldon"></a></td>
         <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a><br><sub>Shieldon · Lv.13</sub></td>
         <td align="left" valign="middle">K-means 클러스터링 + 코호트</td>
       </tr>
       <tr>
-        <td align="center" valign="bottom" width="48" height="48"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/850.gif" width="48" height="21" alt="sizzlipede"></a></td>
+        <td align="center" valign="bottom" width="46" height="46"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/850.gif" width="46" height="20" alt="sizzlipede"></a></td>
         <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>카테고리별 매출 성장 방안 분석</b></a><br><sub>Sizzlipede · Lv.19</sub></td>
         <td align="left" valign="middle">A/B 테스트 + t-test</td>
       </tr>
       <tr>
-        <td align="center" valign="bottom" width="48" height="48"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/622.gif" width="46" height="48" alt="golett"></a></td>
+        <td align="center" valign="bottom" width="46" height="46"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/622.gif" width="44" height="46" alt="golett"></a></td>
         <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><b>조기 퇴직 요인 분석</b></a><br><sub>Golett · Lv.17</sub></td>
         <td align="left" valign="middle"></td>
       </tr>
       <tr>
-        <td align="center" valign="bottom" width="48" height="48"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/443.gif" width="48" height="47" alt="gible"></a></td>
+        <td align="center" valign="bottom" width="46" height="46"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/443.gif" width="46" height="45" alt="gible"></a></td>
         <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><b>우수 사원 특성 분석</b></a><br><sub>Gible · Lv.11</sub></td>
         <td align="left" valign="middle"></td>
       </tr>
