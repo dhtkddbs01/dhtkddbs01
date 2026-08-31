@@ -287,18 +287,20 @@
 <!-- POKEREPO:START -->
 <table>
 <tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01"><b>Swablu</b></a><br><sub>Lv.10</sub><br><sub><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01">dhtkddbs01</a></sub></td>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333"><b>Swablu</b></a><br><sub>Lv.11</sub><br><sub><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01">dhtkddbs01</a></sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on"><b>Caterpie</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on">slack-CLI-h…</a></sub></td>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10"><b>Caterpie</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on">slack-CLI-h…</a></sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/game_user_analysis" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/game_user_analysis"><b>Nincada</b></a><br><sub>Lv.9</sub><br><sub><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis">game_user_a…</a></sub></td>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290"><b>Nincada</b></a><br><sub>Lv.9</sub><br><sub><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis">game_user_a…</a></sub></td>
 </tr>
 </table>
+
+<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01">dhtkddbs01's Dex</a></sub>
 <!-- POKEREPO:END -->
 
 </div>
