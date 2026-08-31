@@ -15,16 +15,16 @@
       "mon": 846
     },
     "dhtkddbs01/dhtkddbs01": {
-      "exp": 5350,
+      "exp": 5900,
       "caught": true,
       "species": 333,
       "stars": 0,
-      "commits": 13,
-      "lastCommit": "2026-08-31T08:17:55Z",
+      "commits": 14,
+      "lastCommit": "2026-08-31T08:24:50Z",
       "description": "프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다",
-      "merges": 7,
+      "merges": 8,
       "alive": true,
-      "level": 14,
+      "level": 15,
       "mon": 333
     },
     "dhtkddbs01/Early-Retirement-Analysis": {

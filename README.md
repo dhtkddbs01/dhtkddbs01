@@ -195,15 +195,18 @@
 <table>
 <tr>
 <td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub>프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다</sub><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.14</sub></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.15</sub></td>
+<td align="left" valign="middle"><sub>프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다</sub></td>
 </tr>
 <tr>
 <td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub>배틀로얄 게임 로그 620만 건 — 비정상(버그) 유저 탐지 가설 검증</sub><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290">Nincada</a> · Lv.9</sub></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290">Nincada</a> · Lv.9</sub></td>
+<td align="left" valign="middle"><sub>배틀로얄 게임 로그 620만 건 — 비정상(버그) 유저 탐지 가설 검증</sub></td>
 </tr>
 <tr>
 <td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub>Slack CLI로 구성한 Bolt(JS) 앱 실습 — OpenAI Agents SDK 기반 IT 지원 에이전트</sub><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10">Caterpie</a> · Lv.6</sub></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10">Caterpie</a> · Lv.6</sub></td>
+<td align="left" valign="middle"><sub>Slack CLI로 구성한 Bolt(JS) 앱 실습 — OpenAI Agents SDK 기반 IT 지원 에이전트</sub></td>
 </tr>
 </table>
 
