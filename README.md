@@ -176,55 +176,6 @@
 
 <br>
 
-<!--기술 스택 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-
-<p align="center"><b>BI &amp; Analytics</b></p>
-<div align="center">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />&nbsp
-  <img alt="Tableau Server" src="https://img.shields.io/badge/Tableau_Server-4E79A7?style=for-the-badge" />&nbsp
-  <img alt="Tableau Next" src="https://img.shields.io/badge/Tableau_Next-1F457E?style=for-the-badge" />&nbsp
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img alt="numpy" src="https://img.shields.io/badge/numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white" />
-</div>
-
-<p align="center"><b>Data Engineering</b></p>
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" />&nbsp
-  <img alt="Amazon Athena" src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge" />&nbsp
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge" />&nbsp
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge" />
-</div>
-
-<p align="center"><b>Salesforce &amp; AI</b></p>
-<div align="center">
-  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge" />&nbsp
-  <img alt="Data Cloud" src="https://img.shields.io/badge/Data_Cloud-032E61?style=for-the-badge" />&nbsp
-  <img alt="Agentforce" src="https://img.shields.io/badge/Agentforce-0B5CAB?style=for-the-badge" />&nbsp
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />&nbsp
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img alt="Git" src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img alt="GitHub" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" />&nbsp
-  <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-2C2C32?style=for-the-badge&logo=jupyter&logoColor=F37726" />
-</div>
-
-<div align="center">
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge" />&nbsp
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-</div>
-
-<br>
-
 <!--프로젝트 부분-->
 <h3 align="center">🎁 Projects 🎁</h3>
 
@@ -244,7 +195,7 @@
 </div>
 
 <details align="center">
-  <summary><b>이전 데이터 분석 프로젝트 (2024)</b></summary>
+  <summary><b>이전 프로젝트 이력</b></summary>
   <br>
   <table align="center">
     <tbody align="center">
@@ -317,3 +268,54 @@
     <img src="https://img.shields.io/badge/dhtkddbs2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+
+<!--기술 스택 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+
+<p align="center"><b>BI &amp; Analytics</b></p>
+<div align="center">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />&nbsp
+  <img alt="Tableau Server" src="https://img.shields.io/badge/Tableau_Server-4E79A7?style=for-the-badge" />&nbsp
+  <img alt="Tableau Next" src="https://img.shields.io/badge/Tableau_Next-1F457E?style=for-the-badge" />&nbsp
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img alt="numpy" src="https://img.shields.io/badge/numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
+<p align="center"><b>Data Engineering</b></p>
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" />&nbsp
+  <img alt="Amazon Athena" src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge" />&nbsp
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge" />&nbsp
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge" />
+</div>
+
+<p align="center"><b>Salesforce &amp; AI</b></p>
+<div align="center">
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge" />&nbsp
+  <img alt="Data Cloud" src="https://img.shields.io/badge/Data_Cloud-032E61?style=for-the-badge" />&nbsp
+  <img alt="Agentforce" src="https://img.shields.io/badge/Agentforce-0B5CAB?style=for-the-badge" />&nbsp
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />&nbsp
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img alt="Git" src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img alt="GitHub" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" />&nbsp
+  <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-2C2C32?style=for-the-badge&logo=jupyter&logoColor=F37726" />
+</div>
+
+<div align="center">
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge" />&nbsp
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+</div>
+
+<br>
