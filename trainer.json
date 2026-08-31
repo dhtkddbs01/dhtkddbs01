@@ -1,0 +1,269 @@
+{
+  "login": "dhtkddbs01",
+  "repos": {
+    "dhtkddbs01/Customer_purchasing_activity_analysis": {
+      "exp": 4250,
+      "caught": true,
+      "species": 846,
+      "stars": 0,
+      "commits": 17,
+      "lastCommit": "2024-05-12T11:01:25Z",
+      "merges": 0,
+      "alive": true,
+      "level": 15,
+      "mon": 846
+    },
+    "dhtkddbs01/dhtkddbs01": {
+      "exp": 1500,
+      "caught": true,
+      "species": 333,
+      "stars": 0,
+      "commits": 6,
+      "lastCommit": "2024-06-16T08:52:20Z",
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 333
+    },
+    "dhtkddbs01/Early-Retirement-Analysis": {
+      "exp": 5500,
+      "caught": true,
+      "species": 824,
+      "stars": 0,
+      "commits": 22,
+      "lastCommit": "2024-05-24T11:15:50Z",
+      "merges": 0,
+      "alive": true,
+      "level": 17,
+      "mon": 825
+    },
+    "eunyeongkimm/eunyeongkimm": {
+      "exp": 0,
+      "caught": false,
+      "species": 27,
+      "stars": 0,
+      "commits": 0,
+      "lastCommit": null,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 27
+    },
+    "dhtkddbs01/game_user_analysis": {
+      "exp": 1750,
+      "caught": true,
+      "species": 290,
+      "stars": 0,
+      "commits": 7,
+      "lastCommit": "2024-07-02T05:02:17Z",
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 290
+    },
+    "bokub/github-stats-box": {
+      "exp": 0,
+      "caught": false,
+      "species": 120,
+      "stars": 159,
+      "commits": 0,
+      "lastCommit": null,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 120
+    },
+    "dhtkddbs01/Outstanding_worker_analysis": {
+      "exp": 1750,
+      "caught": true,
+      "species": 69,
+      "stars": 0,
+      "commits": 7,
+      "lastCommit": "2024-05-16T10:34:58Z",
+      "merges": 0,
+      "alive": true,
+      "level": 14,
+      "mon": 69
+    },
+    "wantaekchoi/pokerepo": {
+      "exp": 0,
+      "caught": false,
+      "species": 837,
+      "stars": 4,
+      "commits": 0,
+      "lastCommit": null,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 837
+    },
+    "maxam2017/productive-box": {
+      "exp": 0,
+      "caught": false,
+      "species": 751,
+      "stars": 543,
+      "commits": 0,
+      "lastCommit": null,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 751
+    },
+    "dhtkddbs01/Sales_growth_by_category_analysis": {
+      "exp": 7250,
+      "caught": true,
+      "species": 406,
+      "stars": 0,
+      "commits": 29,
+      "lastCommit": "2024-05-20T16:34:00Z",
+      "merges": 0,
+      "alive": true,
+      "level": 21,
+      "mon": 406
+    },
+    "dhtkddbs01/slack-CLI-hands-on": {
+      "exp": 250,
+      "caught": true,
+      "species": 10,
+      "stars": 0,
+      "commits": 1,
+      "lastCommit": "2026-06-09T06:42:46Z",
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 10
+    },
+    "AI5-Final-SCV/streamlit_yolov8": {
+      "exp": 0,
+      "caught": false,
+      "species": 572,
+      "stars": 2,
+      "commits": 0,
+      "lastCommit": null,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 572
+    },
+    "dhtkddbs01/study": {
+      "exp": 15000,
+      "caught": true,
+      "species": 60,
+      "stars": 0,
+      "commits": 60,
+      "lastCommit": "2024-06-09T07:54:38Z",
+      "merges": 0,
+      "alive": true,
+      "level": 26,
+      "mon": 186
+    },
+    "thmsgbrt/thmsgbrt": {
+      "exp": 0,
+      "caught": false,
+      "species": 692,
+      "stars": 538,
+      "commits": 0,
+      "lastCommit": null,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 692
+    },
+    "dhtkddbs01/Topic_LDAmodeling_RFM_analysis": {
+      "exp": 7500,
+      "caught": true,
+      "species": 859,
+      "stars": 0,
+      "commits": 30,
+      "lastCommit": "2024-06-23T11:31:38Z",
+      "merges": 0,
+      "alive": true,
+      "level": 19,
+      "mon": 859
+    }
+  },
+  "dex": {
+    "10": {
+      "seen": true,
+      "caught": true
+    },
+    "27": {
+      "seen": true,
+      "caught": false
+    },
+    "60": {
+      "seen": true,
+      "caught": true
+    },
+    "61": {
+      "seen": true,
+      "caught": true
+    },
+    "69": {
+      "seen": true,
+      "caught": true
+    },
+    "120": {
+      "seen": true,
+      "caught": false
+    },
+    "186": {
+      "seen": true,
+      "caught": true
+    },
+    "290": {
+      "seen": true,
+      "caught": true
+    },
+    "333": {
+      "seen": true,
+      "caught": true
+    },
+    "406": {
+      "seen": true,
+      "caught": true
+    },
+    "572": {
+      "seen": true,
+      "caught": false
+    },
+    "692": {
+      "seen": true,
+      "caught": false
+    },
+    "751": {
+      "seen": true,
+      "caught": false
+    },
+    "824": {
+      "seen": true,
+      "caught": true
+    },
+    "825": {
+      "seen": true,
+      "caught": true
+    },
+    "837": {
+      "seen": true,
+      "caught": false
+    },
+    "846": {
+      "seen": true,
+      "caught": true
+    },
+    "859": {
+      "seen": true,
+      "caught": true
+    }
+  },
+  "trainer": {
+    "grassExp": 700
+  },
+  "updatedAt": "2026-08-31",
+  "exp": {
+    "commitOwn": 250,
+    "commitExternal": 600,
+    "mergeOwn": 300,
+    "mergeExternal": 3000
+  }
+}
