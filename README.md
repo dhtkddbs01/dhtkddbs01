@@ -137,31 +137,25 @@
   <br>
   <table align="center">
     <tbody>
-      <tr>
-        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/228.gif" width="39" height="64" alt="houndour"></a></td>
-        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a><br><sub>Houndour · Lv.18</sub></td>
-        <td align="left" valign="middle"><sub>LDA 토픽 모델링 + RFM</sub></td>
-      </tr>
-      <tr>
-        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/410.gif" width="54" height="64" alt="shieldon"></a></td>
-        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a><br><sub>Shieldon · Lv.13</sub></td>
-        <td align="left" valign="middle"><sub>K-means 클러스터링 + 코호트</sub></td>
-      </tr>
-      <tr>
-        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/850.gif" width="64" height="28" alt="sizzlipede"></a></td>
-        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>카테고리별 매출 성장 방안 분석</b></a><br><sub>Sizzlipede · Lv.19</sub></td>
-        <td align="left" valign="middle"><sub>A/B 테스트 + t-test</sub></td>
-      </tr>
-      <tr>
-        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/622.gif" width="61" height="64" alt="golett"></a></td>
-        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><b>조기 퇴직 요인 분석</b></a><br><sub>Golett · Lv.17</sub></td>
-        <td align="left" valign="middle"><sub></sub></td>
-      </tr>
-      <tr>
-        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/443.gif" width="64" height="63" alt="gible"></a></td>
-        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><b>우수 사원 특성 분석</b></a><br><sub>Gible · Lv.11</sub></td>
-        <td align="left" valign="middle"><sub></sub></td>
-      </tr>
+      <tr><td>어댑트</td><td align="center">1회</td><td align="center">2026.08</td></tr>
+      <tr><td>쌍용</td><td align="center">2회</td><td align="center">2026.05</td></tr>
+      <tr><td>농심</td><td align="center">2회</td><td align="center">2026.05</td></tr>
+      <tr><td>퍼시스홀딩스</td><td align="center">1회</td><td align="center">2026.03</td></tr>
+      <tr><td>효성첨단소재</td><td align="center">1회</td><td align="center">2026.03</td></tr>
+      <tr><td>대웅제약</td><td align="center">1회</td><td align="center">2026.02</td></tr>
+      <tr><td>현대스틸파이프</td><td align="center">1회</td><td align="center">2026.02</td></tr>
+      <tr><td>레이어</td><td align="center">1회</td><td align="center">2025.12</td></tr>
+      <tr><td>공개 세미나</td><td align="center">2회</td><td align="center">2025.11</td></tr>
+      <tr><td>굿네이버스</td><td align="center">2회</td><td align="center">2025.09 – 2025.11</td></tr>
+      <tr><td>삼성 DS</td><td align="center">2회</td><td align="center">2025.09 – 2025.10</td></tr>
+      <tr><td>초록우산</td><td align="center">2회</td><td align="center">2025.07</td></tr>
+      <tr><td>제일기획</td><td align="center">2회</td><td align="center">2025.06</td></tr>
+      <tr><td>지평주조</td><td align="center">1회</td><td align="center">2025.06</td></tr>
+      <tr><td>LG S&amp;I</td><td align="center">1회</td><td align="center">2025.06</td></tr>
+      <tr><td>한국일보</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
+      <tr><td>현대 일렉트릭</td><td align="center">3회</td><td align="center">2025.05 – 2025.09</td></tr>
+      <tr><td>잡코리아</td><td align="center">1회</td><td align="center">2025.05</td></tr>
+      <tr><td>세방전지</td><td align="center">1회</td><td align="center">2025.05</td></tr>
     </tbody>
   </table>
   <sub>농심은 기초 · 중급 과정을 함께 진행했습니다.</sub>
@@ -229,29 +223,29 @@
   <table align="center">
     <tbody>
       <tr>
-        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/859.gif" width="48" alt="impidimp"></a></td>
-        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a><br><sub>Impidimp · Lv.19</sub></td>
-        <td align="left" valign="middle"><sub>LDA 토픽 모델링 + RFM</sub></td>
+        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/228.gif" width="39" height="64" alt="houndour"></a></td>
+        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><sub><b>강의 주제별 수익 안정성 높이는 방안</b></sub></a><br><sub>Houndour · Lv.18</sub></td>
+        <td align="left" valign="middle">LDA 토픽 모델링 + RFM</td>
       </tr>
       <tr>
-        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/846.gif" width="48" alt="arrokuda"></a></td>
-        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a><br><sub>Arrokuda · Lv.15</sub></td>
-        <td align="left" valign="middle"><sub>K-means 클러스터링 + 코호트</sub></td>
+        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/410.gif" width="54" height="64" alt="shieldon"></a></td>
+        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><sub><b>구매 유도를 위한 분석</b></sub></a><br><sub>Shieldon · Lv.13</sub></td>
+        <td align="left" valign="middle">K-means 클러스터링 + 코호트</td>
       </tr>
       <tr>
-        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/406.gif" width="48" alt="budew"></a></td>
-        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>카테고리별 매출 성장 방안 분석</b></a><br><sub>Budew · Lv.21</sub></td>
-        <td align="left" valign="middle"><sub>A/B 테스트 + t-test</sub></td>
+        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/850.gif" width="64" height="28" alt="sizzlipede"></a></td>
+        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><sub><b>카테고리별 매출 성장 방안 분석</b></sub></a><br><sub>Sizzlipede · Lv.19</sub></td>
+        <td align="left" valign="middle">A/B 테스트 + t-test</td>
       </tr>
       <tr>
-        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/825.gif" width="48" alt="dottler"></a></td>
-        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><b>조기 퇴직 요인 분석</b></a><br><sub>Dottler · Lv.17</sub></td>
-        <td align="left" valign="middle"><sub></sub></td>
+        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/622.gif" width="61" height="64" alt="golett"></a></td>
+        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><sub><b>조기 퇴직 요인 분석</b></sub></a><br><sub>Golett · Lv.17</sub></td>
+        <td align="left" valign="middle"></td>
       </tr>
       <tr>
-        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/69.gif" width="48" alt="bellsprout"></a></td>
-        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><b>우수 사원 특성 분석</b></a><br><sub>Bellsprout · Lv.14</sub></td>
-        <td align="left" valign="middle"><sub></sub></td>
+        <td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/443.gif" width="64" height="63" alt="gible"></a></td>
+        <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><sub><b>우수 사원 특성 분석</b></sub></a><br><sub>Gible · Lv.11</sub></td>
+        <td align="left" valign="middle"></td>
       </tr>
     </tbody>
   </table>
