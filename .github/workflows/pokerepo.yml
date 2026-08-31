@@ -17,3 +17,5 @@ jobs:
           party: "3"         # 최근 커밋한 3개 저장소만
           columns: "1"       # 세로로 한 줄에 하나씩
           sprite: showdown   # 전 세대 애니메이션 스프라이트 (기본 animated 는 5세대까지만)
+          order: level       # 최신 3개를 고른 뒤, 그 안에서는 레벨 높은 순으로 표시
+          dex-label: 진행한 모든 프로젝트 목록
