@@ -261,12 +261,8 @@
 <!--연락처 부분-->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@dhtkddbs01">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:dhtkddbs2@gmail.com">
-    <img src="https://img.shields.io/badge/dhtkddbs2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <a href="https://velog.io/@dhtkddbs01"><img alt="Velog" src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp;
+  <a href="mailto:dhtkddbs2@gmail.com"><img alt="dhtkddbs2@gmail.com" src="https://img.shields.io/badge/dhtkddbs2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
