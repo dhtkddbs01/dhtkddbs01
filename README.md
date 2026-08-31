@@ -115,8 +115,9 @@
 
 <br>
 
-<p align="center"><b>POC</b> &nbsp;·&nbsp; 8건</p>
+<p align="center"><b>POC</b> &nbsp;·&nbsp; 9건</p>
 <div align="center">
+  <img alt="롯데카드" src="https://img.shields.io/badge/롯데카드-2026.09-555555?style=flat-square" />&nbsp
   <img alt="종근당" src="https://img.shields.io/badge/종근당-2026.01-555555?style=flat-square" />&nbsp
   <img alt="대웅제약" src="https://img.shields.io/badge/대웅제약-2025.12-555555?style=flat-square" />&nbsp
   <img alt="코스맥스" src="https://img.shields.io/badge/코스맥스-2025.11-555555?style=flat-square" />&nbsp
@@ -259,15 +260,6 @@
 
 <br>
 
-<!--연락처 부분-->
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@dhtkddbs01"><img alt="Velog" src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp;
-  <a href="mailto:dhtkddbs2@gmail.com"><img alt="dhtkddbs2@gmail.com" src="https://img.shields.io/badge/dhtkddbs2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br>
-
 <!--기술 스택 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -316,3 +308,12 @@
 </div>
 
 <br>
+
+<br>
+
+<!--연락처 부분-->
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@dhtkddbs01"><img alt="Velog" src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp;
+  <a href="mailto:dhtkddbs2@gmail.com"><img alt="dhtkddbs2@gmail.com" src="https://img.shields.io/badge/dhtkddbs2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
