@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=오상윤&desc=Tableau%20Consultant%20%26%20Data%20Engineer&reversal=false&textBg=false&animation=fadeIn&fontSize=60&descSize=18&descAlignY=64"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=%EC%98%A4%EC%83%81%EC%9C%A4&desc=Tableau%20Consultant%20%26%20Data%20Engineer&reversal=false&textBg=false&animation=fadeIn&fontSize=60&descSize=18&descAlignY=64"/>
 </div>
 
 <p align="center">
@@ -213,21 +213,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on"><b>Slack CLI Hands-on</b></a></td>
-        <td>Slack 플랫폼 CLI로 앱·워크플로 구성 실습</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/dhtkddbs01/game_user_analysis"><b>게임 유저 행동 분석</b></a></td>
-        <td>유저 이탈·잔존 패턴 분석</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 <details align="center">
   <summary><b>이전 프로젝트 이력</b></summary>
