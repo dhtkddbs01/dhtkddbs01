@@ -38,44 +38,36 @@
   <table>
     <thead>
       <tr>
-        <th align="center" width="72"></th>
         <th align="center">영역</th>
         <th align="left">하는 일</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center"><img alt="로토무" title="로토무" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/479.gif" width="56" /></td>
         <td align="center"><b>📊 BI 컨설팅</b></td>
         <td align="left">Tableau 대시보드 기획 · 구축 · 운영<br>고객 요구 변화에 맞춘 설계 반복</td>
       </tr>
       <tr>
-        <td align="center"><img alt="이브이" title="이브이" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" width="56" /></td>
         <td align="center"><b>🎓 교육</b></td>
         <td align="left">기업 대상 Tableau 교육 · 세미나 (누적 30회)<br>활용 사례 중심 커리큘럼 설계</td>
       </tr>
       <tr>
-        <td align="center"><img alt="후딘" title="후딘" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/65.gif" width="56" /></td>
         <td align="center"><b>🧪 POC</b></td>
         <td align="left">고객 일정에 맞춘 빠른 프로토타이핑<br>피드백 반영 루프 운영</td>
       </tr>
       <tr>
-        <td align="center"><img alt="해피너스" title="해피너스" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/242.gif" width="56" /></td>
         <td align="center"><b>🛟 CS 대응</b></td>
         <td align="left">Tableau CS 메일 · 기술 문의 응대<br>2시간 이내 응답 원칙</td>
       </tr>
       <tr>
-        <td align="center"><img alt="강철톤" title="강철톤" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/208.gif" width="56" /></td>
         <td align="center"><b>🖧 인프라</b></td>
         <td align="left">Tableau Server 로그 분석 기반 오류 원인 파악<br>운영 환경 장애 대응</td>
       </tr>
       <tr>
-        <td align="center"><img alt="폴리곤2" title="폴리곤2" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/233.gif" width="56" /></td>
         <td align="center"><b>🔧 데이터 엔지니어링</b></td>
         <td align="left">dbt · AWS Athena 기반 데이터 마트 구축<br>멀티채널 원천 데이터 공통 스키마 정규화</td>
       </tr>
       <tr>
-        <td align="center"><img alt="메타몽" title="메타몽" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/132.gif" width="56" /></td>
         <td align="center"><b>🤖 AI 에이전트</b></td>
         <td align="left">Agentforce 에이전트 메타데이터 as code<br>MCP · Claude Code 기반 워크플로 자동화</td>
       </tr>
@@ -295,18 +287,18 @@
 <!-- POKEREPO:START -->
 <table>
 <tr>
-<td align="center" valign="bottom" width="293" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif" width="64" height="43" alt="swablu"></a></td>
-<td align="center" valign="bottom" width="293" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif" width="62" height="64" alt="caterpie"></a></td>
-<td align="center" valign="bottom" width="293" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/290.gif" width="64" height="35" alt="nincada"></a></td>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/333.gif" width="64" height="36" alt="swablu"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01"><b>Swablu</b></a><br><sub>Lv.10</sub><br><sub><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01">dhtkddbs01</a></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333"><b>Swablu</b></a><br><sub>Lv.10</sub><br><sub><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01">dhtkddbs01</a></sub></td>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10"><b>Caterpie</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on">slack-CLI-h…</a></sub></td>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290"><b>Nincada</b></a><br><sub>Lv.9</sub><br><sub><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis">game_user_a…</a></sub></td>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on"><b>Caterpie</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on">slack-CLI-h…</a></sub></td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://github.com/dhtkddbs01/game_user_analysis" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/game_user_analysis"><b>Nincada</b></a><br><sub>Lv.9</sub><br><sub><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis">game_user_a…</a></sub></td>
 </tr>
 </table>
-
-<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01">dhtkddbs01's Dex</a></sub>
 <!-- POKEREPO:END -->
 
 </div>
