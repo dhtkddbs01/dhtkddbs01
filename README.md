@@ -218,26 +218,31 @@
   <summary><b>이전 프로젝트 이력</b></summary>
   <br>
   <table align="center">
-    <tbody align="center">
+    <tbody>
       <tr>
-        <td><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a></td>
-        <td>LDA 토픽 모델링 + RFM</td>
+        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/859.gif" width="48" alt="impidimp"></a></td>
+        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Topic_LDAmodeling_RFM_analysis"><b>강의 주제별 수익 안정성 높이는 방안</b></a><br><sub>Impidimp · Lv.19</sub></td>
+        <td align="left" valign="middle"><sub>LDA 토픽 모델링 + RFM</sub></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a></td>
-        <td>K-means 클러스터링 + 코호트</td>
+        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/846.gif" width="48" alt="arrokuda"></a></td>
+        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Customer_purchasing_activity_analysis"><b>구매 유도를 위한 분석</b></a><br><sub>Arrokuda · Lv.15</sub></td>
+        <td align="left" valign="middle"><sub>K-means 클러스터링 + 코호트</sub></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>카테고리별 매출 성장 방안 분석</b></a></td>
-        <td>A/B 테스트 + t-test</td>
+        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/406.gif" width="48" alt="budew"></a></td>
+        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Sales_growth_by_category_analysis"><b>카테고리별 매출 성장 방안 분석</b></a><br><sub>Budew · Lv.21</sub></td>
+        <td align="left" valign="middle"><sub>A/B 테스트 + t-test</sub></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><b>조기 퇴직 요인 분석</b></a></td>
-        <td>-</td>
+        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/825.gif" width="48" alt="dottler"></a></td>
+        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Early-Retirement-Analysis"><b>조기 퇴직 요인 분석</b></a><br><sub>Dottler · Lv.17</sub></td>
+        <td align="left" valign="middle"><sub></sub></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><b>우수 사원 특성 분석</b></a></td>
-        <td>-</td>
+        <td align="center" valign="middle" width="56"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/69.gif" width="48" alt="bellsprout"></a></td>
+        <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/Outstanding_worker_analysis"><b>우수 사원 특성 분석</b></a><br><sub>Bellsprout · Lv.14</sub></td>
+        <td align="left" valign="middle"><sub></sub></td>
       </tr>
     </tbody>
   </table>

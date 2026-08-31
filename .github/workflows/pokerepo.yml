@@ -19,3 +19,4 @@ jobs:
           sprite: showdown   # 전 세대 애니메이션 스프라이트 (기본 animated 는 5세대까지만)
           order: level       # 최신 3개를 고른 뒤, 그 안에서는 레벨 높은 순으로 표시
           dex-label: 진행한 모든 프로젝트 목록
+          tiers: "0:All"     # 희귀도 등급 없이 전체 종에서 배정 (기본값은 원본 저장소 스타 수로 등급을 나눔)
