@@ -291,12 +291,12 @@
 <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=333">Swablu</a> · Lv.11</sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
-<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10">Caterpie</a> · Lv.6</sub></td>
-</tr>
-<tr>
 <td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290" title="Nincada in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/290.gif" width="64" height="34" alt="nincada"></a></td>
 <td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=290">Nincada</a> · Lv.9</sub></td>
+</tr>
+<tr>
+<td align="center" valign="bottom" width="64" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10" title="Caterpie in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10.gif" width="64" height="63" alt="caterpie"></a></td>
+<td align="left" valign="middle"><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=10">Caterpie</a> · Lv.6</sub></td>
 </tr>
 </table>
 
