@@ -15,14 +15,14 @@
       "mon": 410
     },
     "dhtkddbs01/dhtkddbs01": {
-      "exp": 7800,
+      "exp": 8350,
       "caught": true,
       "species": 532,
       "stars": 0,
-      "commits": 18,
-      "lastCommit": "2026-08-31T08:37:06Z",
+      "commits": 19,
+      "lastCommit": "2026-08-31T08:56:54Z",
       "description": "프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다",
-      "merges": 11,
+      "merges": 12,
       "alive": true,
       "level": 22,
       "mon": 532
