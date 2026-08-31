@@ -194,17 +194,17 @@
 <!-- POKEREPO:START -->
 <table>
 <tr>
-<td align="center" valign="bottom" width="56" height="56"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532" title="Timburr in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/532.gif" width="55" height="56" alt="timburr"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532">Timburr</a> · Lv.22</sub></td>
+<td align="center" valign="bottom" width="48" height="48"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532" title="Timburr in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/532.gif" width="47" height="48" alt="timburr"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532">Timburr</a> · Lv.23</sub></td>
 <td align="left" valign="middle">프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다</td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="56" height="56"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=753" title="Fomantis in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/753.gif" width="41" height="56" alt="fomantis"></a></td>
+<td align="center" valign="bottom" width="48" height="48"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=753" title="Fomantis in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/753.gif" width="35" height="48" alt="fomantis"></a></td>
 <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=753">Fomantis</a> · Lv.12</sub></td>
 <td align="left" valign="middle">배틀로얄 게임 로그 620만 건 — 비정상(버그) 유저 탐지 가설 검증</td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="56" height="56"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=821" title="Rookidee in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/821.gif" width="53" height="56" alt="rookidee"></a></td>
+<td align="center" valign="bottom" width="48" height="48"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=821" title="Rookidee in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/821.gif" width="46" height="48" alt="rookidee"></a></td>
 <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=821">Rookidee</a> · Lv.7</sub></td>
 <td align="left" valign="middle">Slack CLI로 구성한 Bolt(JS) 앱 실습 — OpenAI Agents SDK 기반 IT 지원 에이전트</td>
 </tr>
