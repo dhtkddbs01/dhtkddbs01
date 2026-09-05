@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=%EC%98%A4%EC%83%81%EC%9C%A4&desc=Tableau%20Consultant%20%26%20Data%20Engineer&reversal=false&textBg=false&animation=fadeIn&fontSize=60&descSize=18&descAlignY=64"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=%EC%98%A4%EC%83%81%EC%9C%A4&desc=Tableau%20Consultant%20%26amp%3B%20Data%20Engineer&reversal=false&textBg=false&animation=fadeIn&fontSize=60&descSize=18&descAlignY=64"/>
 </div>
 
 <p align="center">
