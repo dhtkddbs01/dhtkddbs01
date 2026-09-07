@@ -195,7 +195,7 @@
 <table>
 <tr>
 <td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532" title="Timburr in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/532.gif" width="45" height="46" alt="timburr"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532">Timburr</a> · Lv.23</sub></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532">Timburr</a> · Lv.24</sub></td>
 <td align="left" valign="middle">프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다</td>
 </tr>
 <tr>
