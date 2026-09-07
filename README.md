@@ -101,10 +101,10 @@
     <tbody>
       <tr><td><b>에스원</b></td><td>데이터 마트 · 대시보드 구축</td><td align="center">2026.09 –</td><td align="center">🟢 진행 중</td></tr>
       <tr><td><b>어댑트</b></td><td>데이터 마트 · 대시보드 구축</td><td align="center">2026.03 –</td><td align="center">🟢 진행 중</td></tr>
-      <tr><td><b>소니코리아</b></td><td>마케팅 성과 대시보드 기획 · 구축</td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
+      <tr><td><b>소니코리아</b></td><td>마케팅 성과 대시보드 기획 · 구축 · 운영</td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
       <tr><td><b>초록우산</b></td><td>EXIT 대시보드 기획 · 구축</td><td align="center">2025.10 – 2026.01</td><td align="center"></td></tr>
       <tr><td><b>현대 일렉트릭</b></td><td>울산공장 대시보드 구축</td><td align="center">2025.07</td><td align="center"></td></tr>
-      <tr><td><b>한국일보</b></td><td>회원 · 행동 데이터 대시보드 구축</td><td align="center">2025.02 – 2025.05</td><td align="center"></td></tr>
+      <tr><td><b>한국일보</b></td><td>회원 · 행동 데이터 대시보드 기획 · 구축 · 운영</td><td align="center">2025.02 – 2025.05</td><td align="center"></td></tr>
       <tr><td><b>LG전자</b></td><td>해외법인 통합 대시보드 기획 · 구축</td><td align="center">2025.02 – 2025.03</td><td align="center"></td></tr>
       <tr><td><b>삼성전자</b></td><td>GMPD 대시보드 구축</td><td align="center">2024.10 – 2025.01</td><td align="center"></td></tr>
     </tbody>
