@@ -1,8 +1,3 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=timeGradient&text=%EC%98%A4%EC%83%81%EC%9C%A4&desc=Tableau%20Consultant%20%26amp%3B%20Data%20Engineer&reversal=false&textBg=false&animation=fadeIn&fontSize=60&descSize=18&descAlignY=64"/>
-</div>
-
 <p align="center">
   데이터가 <b>들어오는 지점</b>부터 사용자가 <b>보는 화면</b>까지 — 데이터 마트 · 인프라 · 대시보드를 한 흐름으로 다룹니다.
 </p>
