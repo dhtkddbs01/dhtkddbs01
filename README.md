@@ -189,14 +189,14 @@
 <!-- POKEREPO:START -->
 <table>
 <tr>
-<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532" title="Timburr in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/532.gif" width="45" height="46" alt="timburr"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=532">Timburr</a> · Lv.24</sub></td>
+<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=534" title="Conkeldurr in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/534.gif" width="46" height="33" alt="conkeldurr"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/dhtkddbs01" title="dhtkddbs01/dhtkddbs01"><b>dhtkddbs01</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=534">Conkeldurr</a> · Lv.25</sub></td>
 <td align="left" valign="middle">프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다</td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=753" title="Fomantis in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/753.gif" width="34" height="46" alt="fomantis"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/game_user_analysis" title="dhtkddbs01/game_user_analysis"><b>game_user_analysis</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=753">Fomantis</a> · Lv.12</sub></td>
-<td align="left" valign="middle">배틀로얄 게임 로그 620만 건 — 비정상(버그) 유저 탐지 가설 검증</td>
+<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19" title="Rattata in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/19.gif" width="32" height="46" alt="rattata"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/portfolio" title="dhtkddbs01/portfolio"><b>portfolio</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19">Rattata</a> · Lv.14</sub></td>
+<td align="left" valign="middle">데이터 엔지니어 포트폴리오 — Next.js, 홈서버 Docker 배포</td>
 </tr>
 <tr>
 <td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=821" title="Rookidee in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/821.gif" width="40" height="42" alt="rookidee"></a></td>
