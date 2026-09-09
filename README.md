@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**MILVUS** DX2본부 2팀에서 **Tableau 기반 데이터 분석 및 시각화**를 담당하고 있습니다.<br>
+**MILVUS** DX2본부 2팀에서 **데이터 마트 구축과 Tableau 기반 시각화**를 담당하고 있습니다.<br>
 전자·제조·미디어·금융·유통·비영리 등 여러 산업에서<br>
 **대시보드 기획 · 구축 · 운영**을 맡고, 고객사 교육과 POC 설계를 함께 수행합니다.
 
@@ -60,7 +60,7 @@
       </tr>
       <tr>
         <td align="center"><b>🔧 데이터 엔지니어링</b></td>
-        <td align="left">dbt · AWS Athena 기반 데이터 마트 구축<br>멀티채널 원천 데이터 공통 스키마 정규화</td>
+        <td align="left">dbt · Athena · Oracle · Salesforce Data Cloud 기반 데이터 마트 구축<br>멀티채널 · 웹 로그 등 이종 원천을 공통 분석 모델로 정규화</td>
       </tr>
       <tr>
         <td align="center"><b>🤖 AI 에이전트</b></td>
@@ -94,7 +94,7 @@
       <tr><th align="left">고객사</th><th align="left">범위</th><th align="center">기간</th><th align="center"></th></tr>
     </thead>
     <tbody>
-      <tr><td><b>에스원</b></td><td>데이터 마트 · 대시보드 구축</td><td align="center">2026.09 –</td><td align="center">🟢 진행 중</td></tr>
+      <tr><td><b>에스원</b></td><td>차세대 ERP 연계 데이터 마트 · 대시보드 구축</td><td align="center">2026.09 –</td><td align="center">🟢 진행 중</td></tr>
       <tr><td><b>어댑트</b></td><td>데이터 마트 · 대시보드 구축</td><td align="center">2026.03 – 2026.09</td><td align="center"></td></tr>
       <tr><td><b>소니코리아</b></td><td>마케팅 성과 대시보드 기획 · 구축 · 운영</td><td align="center">2026.01 – 2026.02</td><td align="center"></td></tr>
       <tr><td><b>초록우산</b></td><td>데이터 마트 · EXIT 대시보드 기획 · 구축</td><td align="center">2025.10 – 2026.01</td><td align="center"></td></tr>
@@ -264,6 +264,8 @@
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />&nbsp
   <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" />&nbsp
   <img alt="Amazon Athena" src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge" />&nbsp
   <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge" />&nbsp
