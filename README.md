@@ -195,7 +195,7 @@
 </tr>
 <tr>
 <td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19" title="Rattata in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/19.gif" width="32" height="46" alt="rattata"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/portfolio" title="dhtkddbs01/portfolio"><b>portfolio</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19">Rattata</a> · Lv.14</sub></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/portfolio" title="dhtkddbs01/portfolio"><b>portfolio</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19">Rattata</a> · Lv.15</sub></td>
 <td align="left" valign="middle">데이터 엔지니어 포트폴리오 — Next.js, 홈서버 Docker 배포</td>
 </tr>
 <tr>
