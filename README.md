@@ -105,15 +105,12 @@
     </tbody>
   </table>
   <sub><b>운영</b> &nbsp;·&nbsp; 소니코리아 (2026.02 – 🟢 진행 중) &nbsp;·&nbsp; 한국일보 (2025.05 – 2026.05)</sub><br>
-  <sub><b>담당자 부재 기간 대응 지원</b> <i>(운영 아님)</i> &nbsp;·&nbsp; 구다이 글로벌</sub>
 </div>
 
 <br>
 
-<p align="center"><b>POC</b> &nbsp;·&nbsp; 9건</p>
+<p align="center"><b>POC</b> &nbsp;·&nbsp; 7건</p>
 <div align="center">
-  <img alt="롯데카드" src="https://img.shields.io/badge/롯데카드-2026.09-555555?style=flat-square" />&nbsp
-  <img alt="종근당" src="https://img.shields.io/badge/종근당-2026.01-555555?style=flat-square" />&nbsp
   <img alt="대웅제약" src="https://img.shields.io/badge/대웅제약-2025.12-555555?style=flat-square" />&nbsp
   <img alt="코스맥스" src="https://img.shields.io/badge/코스맥스-2025.11-555555?style=flat-square" />&nbsp
   <img alt="AXA" src="https://img.shields.io/badge/AXA-2025.09-555555?style=flat-square" />&nbsp
