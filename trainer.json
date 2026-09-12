@@ -15,14 +15,14 @@
       "mon": 410
     },
     "dhtkddbs01/dhtkddbs01": {
-      "exp": 12750,
+      "exp": 13300,
       "caught": true,
       "species": 532,
       "stars": 0,
-      "commits": 27,
-      "lastCommit": "2026-09-09T10:12:14Z",
+      "commits": 28,
+      "lastCommit": "2026-09-12T14:47:34Z",
       "description": "프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다",
-      "merges": 20,
+      "merges": 21,
       "alive": true,
       "level": 25,
       "mon": 534
@@ -197,16 +197,16 @@
       "mon": 228
     },
     "dhtkddbs01/portfolio": {
-      "exp": 3750,
+      "exp": 4300,
       "caught": true,
       "species": 19,
       "stars": 0,
-      "commits": 9,
-      "lastCommit": "2026-09-11T12:59:19Z",
+      "commits": 10,
+      "lastCommit": "2026-09-12T14:48:36Z",
       "description": "데이터 엔지니어 포트폴리오 — Next.js, 홈서버 Docker 배포",
-      "merges": 5,
+      "merges": 6,
       "alive": true,
-      "level": 15,
+      "level": 16,
       "mon": 19
     }
   },
@@ -285,9 +285,9 @@
     }
   },
   "trainer": {
-    "grassExp": 2950
+    "grassExp": 3650
   },
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
