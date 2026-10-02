@@ -196,9 +196,9 @@
 <td align="left" valign="middle">데이터 엔지니어 포트폴리오 — Next.js, 홈서버 Docker 배포</td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=821" title="Rookidee in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/821.gif" width="40" height="42" alt="rookidee"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/slack-CLI-hands-on" title="dhtkddbs01/slack-CLI-hands-on"><b>slack-CLI-hands-on</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=821">Rookidee</a> · Lv.7</sub></td>
-<td align="left" valign="middle">Slack CLI로 구성한 Bolt(JS) 앱 실습 — OpenAI Agents SDK 기반 IT 지원 에이전트</td>
+<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574" title="Gothita in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/574.gif" width="36" height="46" alt="gothita"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/trading-bot" title="dhtkddbs01/trading-bot"><b>trading-bot</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574">Gothita</a> · Lv.9</sub></td>
+<td align="left" valign="middle">트레이딩 봇 (홈 서버)</td>
 </tr>
 </table>
 
