@@ -197,7 +197,7 @@
 </tr>
 <tr>
 <td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574" title="Gothita in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/574.gif" width="36" height="46" alt="gothita"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/trading-bot" title="dhtkddbs01/trading-bot"><b>trading-bot</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574">Gothita</a> · Lv.13</sub></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/trading-bot" title="dhtkddbs01/trading-bot"><b>trading-bot</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574">Gothita</a> · Lv.15</sub></td>
 <td align="left" valign="middle">트레이딩 봇 (홈 서버)</td>
 </tr>
 </table>
