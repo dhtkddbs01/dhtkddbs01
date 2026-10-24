@@ -191,14 +191,14 @@
 <td align="left" valign="middle">프로필 README — 최근 작업 저장소 카드가 매일 자동 갱신됩니다</td>
 </tr>
 <tr>
+<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574" title="Gothita in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/574.gif" width="36" height="46" alt="gothita"></a></td>
+<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/trading-bot" title="dhtkddbs01/trading-bot"><b>trading-bot</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574">Gothita</a> · Lv.18</sub></td>
+<td align="left" valign="middle">트레이딩 봇 (홈 서버)</td>
+</tr>
+<tr>
 <td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19" title="Rattata in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/19.gif" width="32" height="46" alt="rattata"></a></td>
 <td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/portfolio" title="dhtkddbs01/portfolio"><b>portfolio</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=19">Rattata</a> · Lv.16</sub></td>
 <td align="left" valign="middle">데이터 엔지니어 포트폴리오 — Next.js, 홈서버 Docker 배포</td>
-</tr>
-<tr>
-<td align="center" valign="bottom" width="46" height="46"><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574" title="Gothita in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/574.gif" width="36" height="46" alt="gothita"></a></td>
-<td align="left" valign="middle" nowrap><a href="https://github.com/dhtkddbs01/trading-bot" title="dhtkddbs01/trading-bot"><b>trading-bot</b></a><br><sub><a href="https://wantaekchoi.github.io/pokerepo/?u=dhtkddbs01&m=574">Gothita</a> · Lv.15</sub></td>
-<td align="left" valign="middle">트레이딩 봇 (홈 서버)</td>
 </tr>
 </table>
 
