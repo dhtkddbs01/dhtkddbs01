@@ -210,14 +210,14 @@
       "mon": 19
     },
     "dhtkddbs01/trading-bot": {
-      "exp": 4800,
+      "exp": 5350,
       "caught": true,
       "species": 574,
       "stars": 0,
-      "commits": 12,
-      "lastCommit": "2026-10-28T13:00:02Z",
+      "commits": 13,
+      "lastCommit": "2026-10-30T12:59:16Z",
       "description": "트레이딩 봇 (홈 서버)",
-      "merges": 6,
+      "merges": 7,
       "alive": true,
       "level": 19,
       "mon": 574
@@ -302,9 +302,9 @@
     }
   },
   "trainer": {
-    "grassExp": 5850
+    "grassExp": 6100
   },
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
