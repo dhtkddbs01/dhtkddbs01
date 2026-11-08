@@ -210,14 +210,14 @@
       "mon": 19
     },
     "dhtkddbs01/trading-bot": {
-      "exp": 7000,
+      "exp": 7550,
       "caught": true,
       "species": 574,
       "stars": 0,
-      "commits": 16,
-      "lastCommit": "2026-11-01T13:46:52Z",
+      "commits": 17,
+      "lastCommit": "2026-11-07T14:44:15Z",
       "description": "트레이딩 봇 (홈 서버)",
-      "merges": 10,
+      "merges": 11,
       "alive": true,
       "level": 21,
       "mon": 574
@@ -234,6 +234,19 @@
       "alive": true,
       "level": 7,
       "mon": 459
+    },
+    "apache/kafka": {
+      "exp": 0,
+      "caught": false,
+      "species": 731,
+      "stars": 34194,
+      "commits": 0,
+      "lastCommit": null,
+      "description": "Apache Kafka - A distributed event streaming platform",
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 731
     }
   },
   "dex": {
@@ -301,6 +314,10 @@
       "seen": true,
       "caught": true
     },
+    "731": {
+      "seen": true,
+      "caught": false
+    },
     "749": {
       "seen": true,
       "caught": false
@@ -319,9 +336,9 @@
     }
   },
   "trainer": {
-    "grassExp": 7500
+    "grassExp": 7950
   },
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
